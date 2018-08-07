@@ -5,7 +5,7 @@
 
 
 [![Build Status](https://travis-ci.org/petkaantonov/bluebird.svg?branch=master)](https://travis-ci.org/petkaantonov/bluebird)
-[![coverage-98%](https://img.shields.io/badge/coverage-98%25-brightgreen.svg?style=flat)](http://petkaantonov.github.io/bluebird/coverage/debug/index.html) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/petkaantonov--bluebird.svg)](https://www.staging.guardrails.io)
+[![coverage-98%](https://img.shields.io/badge/coverage-98%25-brightgreen.svg?style=flat)](http://petkaantonov.github.io/bluebird/coverage/debug/index.html) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/petkaantonov--bluebird.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/petkaantonov--bluebird.svg)](https://www.guardrails.io)
 
 **Got a question?** Join us on [stackoverflow](http://stackoverflow.com/questions/tagged/bluebird), the [mailing list](https://groups.google.com/forum/#!forum/bluebird-js) or chat on [IRC](https://webchat.freenode.net/?channels=#promises)
 
